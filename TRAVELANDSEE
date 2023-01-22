@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Travel and See</title>
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        <h1>Around GH With The +233 Experience</h1>
+        <hr>
+        <img src="wag.jpg" alt="">
+        <hr>
+        <h2>Travel and See Facebook Page</h2>
+        <div class="one">A 3.1K member capacity international fun page for tourist sites,facts and travel experiences around the world.</div>
+        <div class="one">To join search Travel and See an Facebook or tab on the link below.<div>
+
+        <p>GREATER ACCRA</p>
+     <div class="one">The capital of Ghana and the lands of the Ga's.Talk of all the places to chill,five star hotels and the fancy restaraunts and you would actually find them in Accra.
+        If the sea side i yur place to hangout,then you would definitely find the most soothing Ghana beaches in Accra
+        A few popular places to list;
+        Movenpick Ambasador Hotel
+        Labadi Beach Restaurant and Hotel
+        Lakeside Resort
+        Accra Confrence Centre
+        National Theater
+        Bojo Beach
+        Legon Botechnical Gardens
+        Shai Hills
+     </div>
+    <p>CENTRAL REGION</p>
+        <div class="one">The initail capital city of Ghana.ARE YOU LOOKING FOR ALL THE ACCIENT COLONIAL DAYS BUILDING AND PLACES FOR HISTORY?.Then Central region should be your first stop to see the Famous Elimina Castle and the fine coastal beaches before you proceed to chill in Greater Accra.</div>
+        <hr>
+        <p>To recieve newsletters about two regions each week to entice you to come to Ghana this and every December,kindly fill and submit.</p>
+        <div class="two">Name;</div>
+        <input type="fullname"="fullname placeholder="Fullname"">
+        <div class="two">Email;</div>
+        <input type="email"="email placeholder="Email"">
+        <button>Submit</button>
+        <hr>
+        &lt;&lt;&lt;&copy;ASUMANG AFIA KWAAH &GT;&GT;&GT;
+    </body>  
+</html>
